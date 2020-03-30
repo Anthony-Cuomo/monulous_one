@@ -1,13 +1,16 @@
 Actual Intelligence
+
+Big picture - create Intelligence that will create itself through 
+                a process similar to cell replication.
+                The goal is to solve a small mathematical 
+                problem.
+
 step one:
     - use object to create one chromosome to be replicated
     - get two sets of original code(chromosomes):
     - need to break down chromosomes furthur
-	
-step two:
-    - Bring code together to make a match
-    
-Step Three:
+    - create each chromosome with specific DNA
+    - I believe a PLC can run this logic to create Intelligence
     - code is then replicated into a chain:
-	Stare with mitosis
+	- start with mitosis
 	Ex: DNA 

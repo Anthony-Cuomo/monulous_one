@@ -25,13 +25,17 @@ var female = {
     chromo_0: [1, 1, 1, 1],
     chromo_1: [1, 1, 1, 1]
 }
+
 //object to hold different chromosomes together
 var cell = {
     chromosome_0: [],
     chromosome_1: []
 };
+
 /*
+
 This create the zygote by bringing the two male and female objects together
+
 */
 var zygote = (mc0, mc1, fc0, fc1) => {
 
@@ -45,7 +49,9 @@ var zygote = (mc0, mc1, fc0, fc1) => {
 }
 
 /* 
-    cell replication
+    cell replication 
+     - here the cells will replicate naturally within certain constraints
+     - starting with zeros and ones can move to more difficult processes later
 
 */
 
