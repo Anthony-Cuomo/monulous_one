@@ -1,0 +1,13 @@
+Actual Intelligence
+step one:
+    - use object to create one chromosome to be replicated
+    - get two sets of original code(chromosomes):
+    - need to break down chromosomes furthur
+	
+step two:
+    - Bring code together to make a match
+    
+Step Three:
+    - code is then replicated into a chain:
+	Stare with mitosis
+	Ex: DNA 
