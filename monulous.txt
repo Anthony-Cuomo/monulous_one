@@ -14,3 +14,8 @@ step one:
     - code is then replicated into a chain:
 	- start with mitosis
 	Ex: DNA 
+
+notes: Start Codon most common
+    maybe use a start codon to create replication ...
+    once replicated then start problems
+
