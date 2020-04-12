@@ -32,6 +32,14 @@ var cell = {
     chromosome_1: []
 };
 
+//cross arrays to get traits
+//just to play around to figure out if after
+//the replication process problems can be attempted
+var traits = {
+
+
+}
+
 /*
 
 This create the zygote by bringing the two male and female objects together
